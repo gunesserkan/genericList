@@ -1,0 +1,1 @@
+Bu projede Generic yapıda bir liste sınıfı oluşturulmuş ve generic bir dizi üzerinde ekleme, silme gibi özellikler tanımlanmıştır.
